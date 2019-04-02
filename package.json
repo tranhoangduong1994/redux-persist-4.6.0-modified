@@ -1,5 +1,5 @@
 {
-  "name": "redper",
+  "name": "red-per",
   "version": "4.5.0",
   "description": "persist and rehydrate redux stores",
   "main": "lib/index.js",
@@ -28,9 +28,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tranhoangduong1994/redper.git"
+    "url": "https://github.com/tranhoangduong1994/red-per.git"
   },
-  "homepage": "https://github.com/tranhoangduong1994/redper",
+  "homepage": "https://github.com/tranhoangduong1994/red-per",
   "keywords": [
     "redux",
     "redux-middleware",
