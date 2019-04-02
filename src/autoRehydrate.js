@@ -72,5 +72,7 @@ function defaultStateReconciler (state, inboundState, reducedState, log) {
 
       if (log) console.log('redux-persist/autoRehydrate: key `%s`, rehydrated to ', key, newState[key])
     })
+  }
+  
   return newState
 }
